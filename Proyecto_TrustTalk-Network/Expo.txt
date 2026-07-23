@@ -1,0 +1,32 @@
+
+
+npm i -g expo
+
+
+npx create-expo-app AwesomeProject
+
+cd AwesomeProject 
+
+Dependencias 
+
+npm install @react-navigation/native
+
+npx expo install react-native-screens react-native-safe-area-context
+
+npm install react-native-screens react-native-safe-area-context
+
+//navigator Taps o el menu escogido 
+
+npm install @react-navigation/bottom-tabs
+
+
+
+npm install firebase
+npm install @react-navigation/native
+npm install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack
+npm install @react-native-community/masked-view
+npm install react-native-gesture-handler
+npm install @react-navigation/stack
+npm install react-native-reanimated
+npm install @react-native-community/async-storage
